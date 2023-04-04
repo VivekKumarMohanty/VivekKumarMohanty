@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VivekKumarMohanty
-- 👀 I’m interested in Full Stack Development,App Development,Web Designing,Artificial Intelligence,Machine Learning.
+- 👀 I’m interested in Full Stack Development,App Development,Devops.
 - 🌱 I’m currently learning Fronted Web Development for Full Stack Web Development.
 - 💞️ I’m looking to collaborate on different projects related to my domain.
 - 📫 How to reach me (My Email-Id)-vmohanty39@gmail.com
